@@ -1,0 +1,12 @@
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\bin\Debug\windows_form.exe.config
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\bin\Debug\windows_form.exe
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\bin\Debug\windows_form.pdb
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.csproj.AssemblyReference.cache
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.Form1.resources
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.Properties.Resources.resources
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.csproj.GenerateResource.cache
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.csproj.CoreCompileInputs.cache
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.exe
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.pdb
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.FrmIMC.resources
+C:\Users\Monz\Desktop\intructoria 3\windows_form\windows_form\obj\Debug\windows_form.FrmCalculadora.resources
